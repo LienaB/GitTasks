@@ -6,5 +6,3 @@ class Greeter
     "Hello, #{@who}"
   end
 end
-end
-efd
